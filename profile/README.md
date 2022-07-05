@@ -1,4 +1,3 @@
-# .github
 
 # About a-d-o-p
 # About Our Team
