@@ -8,5 +8,8 @@ Head [here](https://github.com/Team-Arroyo/arroyo-deployment) for to learn how t
 ## Anne
 [![Github Icon](https://github.com/Team-Arroyo/.github/blob/main/profile/GitHub-Mark-32px.png)](https://github.com/aelizj) ![Linked In Icon](https://github.com/Team-Arroyo/.github/blob/main/profile/In-Blue-34.png)
 ## Donald
+[![Github Icon](https://github.com/Team-Arroyo/.github/blob/main/profile/GitHub-Mark-32px.png)](https://github.com/donald-p-redding) ![Linked In Icon](https://github.com/Team-Arroyo/.github/blob/main/profile/In-Blue-34.png)
 ## Olga
+[![Github Icon](https://github.com/Team-Arroyo/.github/blob/main/profile/GitHub-Mark-32px.png)](https://github.com/olgashi) ![Linked In Icon](https://github.com/Team-Arroyo/.github/blob/main/profile/In-Blue-34.png)
 ## Pauline
+[![Github Icon](https://github.com/Team-Arroyo/.github/blob/main/profile/GitHub-Mark-32px.png)](https://github.com/Pauline3414159) ![Linked In Icon](https://github.com/Team-Arroyo/.github/blob/main/profile/In-Blue-34.png)
